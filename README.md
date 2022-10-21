@@ -6,7 +6,7 @@ Welcome to my github!
 - ⚡ Fun fact: I just moved to Berlin and finished the DataScience coding bootcamp from le Wagon
 
 🔭 I'm currently working on the following things: 
-- A League of Legends players headhunting tool (final project for Le Wagon)
+- A League of Legends players headhunting tool
 - Creating Python apps on the VIKTOR platform (see: https://www.viktor.ai/)
 - Rewriting one of my past research projects about ADAS (Advanced Driver Assistance Systems) perceptions.
 
