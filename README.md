@@ -2,7 +2,7 @@
 
 Welcome to my github!
 
-- 🌱 I'm a Transport, Infrastructure & Logistics engineer transitioning to data science
+- 🌱 I'm a Transport, Infrastructure & Logistics engineer with work experience in IT/Data/Planning transitioning to becoming a full time data scientist.
 - ⚡ Fun fact: I just moved to Berlin and finished the DataScience coding bootcamp from le Wagon
 
 🔭 I'm currently working on the following things: 
