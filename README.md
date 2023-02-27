@@ -3,7 +3,6 @@
 Welcome to my github!
 
 - 🌱 I'm a Transport, Infrastructure & Logistics engineer with work experience in IT/Data/Planning 
-- 🔭 Transitioning to becoming a full time data scientist/ML engineer.
 - ⚡ Fun fact: I just finished the DataScience coding bootcamp from le Wagon
 
 I'm currently working on the following on Github: 
